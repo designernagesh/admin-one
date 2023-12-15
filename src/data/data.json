@@ -1,0 +1,161 @@
+{
+    "navItems": [        
+        {
+            "id": 2,
+            "name": "Dashboard",
+            "icon": "IoHomeOutline"
+        },
+        {
+            "id": 3,
+            "name": "Customers",
+            "icon": "PiUsersThree"
+        },
+        {
+            "id": 4,
+            "name": "Messages",
+            "icon": "TiMessages"
+        },
+        {
+            "id": 5,
+            "name": "Help",
+            "icon": "GrHelpBook"
+        },
+        {
+            "id": 6,
+            "name": "Settings",
+            "icon": "IoSettingsOutline"
+        },
+        {
+            "id": 7,
+            "name": "Password",
+            "icon": "RiLockPasswordLine"
+        },
+        {
+            "id": 8,
+            "name": "Sign Out",
+            "icon": "PiSignOutBold"
+        }
+    ],
+    "cards": [
+        {
+            "id": 1,
+            "count": 1504,
+            "name": "Daily Views",
+            "icon": "FaRegEye"
+        },
+        {
+            "id": 2,
+            "count": 80,
+            "name": "Sales",
+            "icon": "IoCartOutline"
+        },
+        {
+            "id": 3,
+            "count": 284,
+            "name": "Comments",
+            "icon": "GoCommentDiscussion"
+        },
+        {
+            "id": 4,
+            "count": 7842,
+            "name": "Earning",
+            "icon": "HiOutlineBanknotes"
+        }
+    ],
+    "recentOrders": [
+        {
+            "id": 1,
+            "name": "Star Refrigerator",
+            "price": 1200,
+            "payment": "Paid",
+            "status": "Delivered"
+        },
+        {
+            "id": 2,
+            "name": "Dell Laptop",
+            "price": 110,
+            "payment": "Due",
+            "status": "Pending"
+        },
+        {
+            "id": 3,
+            "name": "Apple Watch",
+            "price": 1200,
+            "payment": "Paid",
+            "status": "Return"
+        },
+        {
+            "id": 4,
+            "name": "Addidas Shoes",
+            "price": 620,
+            "payment": "Due",
+            "status": "In Progress"
+        },
+        {
+            "id": 5,
+            "name": "Star Refrigerator",
+            "price": 1300,
+            "payment": "Paid",
+            "status": "Delivered"
+        },
+        {
+            "id": 6,
+            "name": "Dell Laptop",
+            "price": 110,
+            "payment": "Due",
+            "status": "Pending"
+        },
+        {
+            "id": 7,
+            "name": "Apple Watch",
+            "price": 1500,
+            "payment": "Paid",
+            "status": "Return"
+        },
+        {
+            "id": 8,
+            "name": "Addidas Shoes",
+            "price": 780,
+            "payment": "Due",
+            "status": "In Progress"
+        }
+    ],
+    "recentCustomers": [
+        {
+            "id": 1,
+            "name": "George Bluth",
+            "email": "george.bluth@reqres.in",
+            "image": "customer01"
+        },
+        {
+            "id": 2,
+            "name": "Janet Weaver",
+            "email": "janet.weaver@reqres.in",
+            "image": "customer02"
+        },
+        {
+            "id": 3,
+            "name": "Emma Wong",
+            "email": "emma.wong@reqres.in",
+            "image": "customer01"
+        },
+        {
+            "id": 4,
+            "name": "Eve Holt",
+            "email": "eve.holt@reqres.in",
+            "image": "customer02"
+        },
+        {
+            "id": 5,
+            "name": "Charles Morris",
+            "email": "charles.morris@reqres.in",
+            "image": "customer01"
+        },
+        {
+            "id": 6,
+            "name": "Tracey Ramos",
+            "email": "tracey.ramos@reqres.in",
+            "image": "customer02"
+        }
+    ]
+}
